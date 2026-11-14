@@ -7,6 +7,9 @@ This repository contains daily Java-based Data Structures and Algorithms practic
 - Day-01/
   - LargestElement.java
   - README.md
+- Day-02/
+  - SecondLargestElement.java
+  - README.md
 
 ## Purpose
 
@@ -15,6 +18,7 @@ Each folder focuses on a single DSA problem or concept. The goal is to practice 
 ## Current Progress
 
 - Day-01: Find the largest element in an array
+- Day-02: Find the second-largest distinct element in an array
 
 ## Notes
 
