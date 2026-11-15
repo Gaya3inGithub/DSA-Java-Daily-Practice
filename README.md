@@ -10,6 +10,9 @@ This repository contains daily Java-based Data Structures and Algorithms practic
 - Day-02/
   - SecondLargestElement.java
   - README.md
+- Day-03/
+  - MoveZeros.java
+  - README.md
 
 ## Purpose
 
@@ -19,6 +22,7 @@ Each folder focuses on a single DSA problem or concept. The goal is to practice 
 
 - Day-01: Find the largest element in an array
 - Day-02: Find the second-largest distinct element in an array
+- Day-03: Move all zeros to the end of an array
 
 ## Notes
 
